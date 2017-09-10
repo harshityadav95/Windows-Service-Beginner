@@ -35,3 +35,16 @@ Affected parameters are:
 Removing EventLog source Service1Harshit.
 Service Service1Harshit is being removed from the system...
 Service Service1Harshit was successfully removed from the system.
+Installing assembly 'H:\Harshit\Code\extreme40\C#\Windows Service\myservicelearn\bin\Debug\myservicelearn.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = H:\Harshit\Code\extreme40\C#\Windows Service\myservicelearn\bin\Debug\myservicelearn.InstallLog
+   assemblypath = H:\Harshit\Code\extreme40\C#\Windows Service\myservicelearn\bin\Debug\myservicelearn.exe
+Installing service Service1Harshit...
+Service Service1Harshit has been successfully installed.
+Creating EventLog source Service1Harshit in log Application...
+Committing assembly 'H:\Harshit\Code\extreme40\C#\Windows Service\myservicelearn\bin\Debug\myservicelearn.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = H:\Harshit\Code\extreme40\C#\Windows Service\myservicelearn\bin\Debug\myservicelearn.InstallLog
+   assemblypath = H:\Harshit\Code\extreme40\C#\Windows Service\myservicelearn\bin\Debug\myservicelearn.exe
