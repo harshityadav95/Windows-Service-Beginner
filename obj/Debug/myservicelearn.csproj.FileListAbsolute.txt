@@ -1,0 +1,9 @@
+H:\Harshit\Code\extreme40\C#\Windows Service\myservicelearn\bin\Debug\myservicelearn.exe.config
+H:\Harshit\Code\extreme40\C#\Windows Service\myservicelearn\bin\Debug\myservicelearn.exe
+H:\Harshit\Code\extreme40\C#\Windows Service\myservicelearn\bin\Debug\myservicelearn.pdb
+H:\Harshit\Code\extreme40\C#\Windows Service\myservicelearn\obj\Debug\myservicelearn.csprojResolveAssemblyReference.cache
+H:\Harshit\Code\extreme40\C#\Windows Service\myservicelearn\obj\Debug\myservicelearn.ProjectInstaller.resources
+H:\Harshit\Code\extreme40\C#\Windows Service\myservicelearn\obj\Debug\myservicelearn.csproj.GenerateResource.Cache
+H:\Harshit\Code\extreme40\C#\Windows Service\myservicelearn\obj\Debug\myservicelearn.csproj.CoreCompileInputs.cache
+H:\Harshit\Code\extreme40\C#\Windows Service\myservicelearn\obj\Debug\myservicelearn.exe
+H:\Harshit\Code\extreme40\C#\Windows Service\myservicelearn\obj\Debug\myservicelearn.pdb
