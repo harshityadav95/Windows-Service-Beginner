@@ -1,0 +1,5 @@
+9/10/2017 2:26:17 PM: Test window service started
+9/10/2017 2:26:47 PM: Timer ticked and some job has been done successfully
+9/10/2017 2:26:48 PM: Test window service stopped
+9/10/2017 2:27:42 PM: Test window service started
+9/10/2017 2:27:57 PM: Test window service stopped
